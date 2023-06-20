@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFmU7PbZ9w/JR8aDKBIzJqpf-psncN9EQ/edit?utm_content=DAFmU7PbZ9w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center"/>
+<img src="https://github.com/DibyajyotiKumar/DibyajyotiKumar/assets/134666822/16dc35ca-8ee8-4d48-8fa0-515c20a5323c" align="center"/>
 <h1 align="center">Hello👋 I'm Dibyajyoti Kumar</h1>
 <h3 align="center">Web Developer | UX UI Designer</h3>
 <p align="center">I am a 2 years experienced web developer and a UX UI designer. For my fronted work I use HTML, CSS, JavaScript and frameworks and modules such as tailwind css and bootstrap. For my UX UI Design I prefer using Figma to create stunning visual prototype and convert them to high quality code.</p>
